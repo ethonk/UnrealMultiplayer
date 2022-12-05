@@ -104,7 +104,7 @@ void AMenuSystemCharacter::CreateGameSession()
 	OnlineSessionInterface->AddOnCreateSessionCompleteDelegate_Handle(CreateSessionCompleteDelegate);
 	
 	// create session settings
-	TSharedPtr<FOnlineSessionSettings> SessionSettings = MakeShareable(new FOnlineSessionSettings());
+	const TSharedPtr<FOnlineSessionSettings> SessionSettings = MakeShareable(new FOnlineSessionSettings());
 	// setup session settings
 	SessionSettings->bIsLANMatch = false;
 	SessionSettings->NumPublicConnections = 4;

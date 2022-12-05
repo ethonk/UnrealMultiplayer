@@ -70,5 +70,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=MenuSystem
-/fo "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Default.rc2.res"
+/fo "A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

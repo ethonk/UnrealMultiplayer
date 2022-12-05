@@ -1,21 +1,21 @@
-"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\WireBase.cpp"
+A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\WireBase.cpp
 /I .
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include"
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -25,9 +25,9 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h"
-/Fo"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\WireBase.cpp.lc.obj"
-/sourceDependencies"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\WireBase.cpp.dep.lc.json"
+/FI"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h"
+/Fo"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\WireBase.cpp.lc.obj"
+/sourceDependencies"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\WireBase.cpp.dep.lc.json"
 /Zc:inline
 /nologo
 /Oi

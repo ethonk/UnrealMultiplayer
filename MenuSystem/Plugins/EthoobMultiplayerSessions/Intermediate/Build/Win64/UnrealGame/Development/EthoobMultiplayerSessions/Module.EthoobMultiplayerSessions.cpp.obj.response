@@ -1,6 +1,6 @@
-"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp"
+A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp
 /I .
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Source\EthoobMultiplayerSessions\Private"
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Source\EthoobMultiplayerSessions\Private
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -105,9 +105,9 @@
 /I Runtime\TypedElementFramework\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime\UHT
 /I Runtime\TypedElementRuntime\Public
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Inc\EthoobMultiplayerSessions\UHT"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Source"
-/I "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Source\EthoobMultiplayerSessions\Public"
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Inc\EthoobMultiplayerSessions\UHT
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Source
+/I A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Source\EthoobMultiplayerSessions\Public
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -145,12 +145,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Intermediate\Build\Win64\MenuSystem\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Definitions.EthoobMultiplayerSessions.h"
-/Yu"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Intermediate\Build\Win64\MenuSystem\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Intermediate\Build\Win64\MenuSystem\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp.obj"
-/sourceDependencies "A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp.dep.json"
+/FI"A:\GitHub\UnrealMultiplayer\MenuSystem\Intermediate\Build\Win64\MenuSystem\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Definitions.EthoobMultiplayerSessions.h"
+/Yu"A:\GitHub\UnrealMultiplayer\MenuSystem\Intermediate\Build\Win64\MenuSystem\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"A:\GitHub\UnrealMultiplayer\MenuSystem\Intermediate\Build\Win64\MenuSystem\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp.obj"
+/sourceDependencies A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealGame\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

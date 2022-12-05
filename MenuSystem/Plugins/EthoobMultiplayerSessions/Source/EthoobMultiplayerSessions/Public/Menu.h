@@ -23,6 +23,12 @@ protected:
 	virtual bool Initialize() override;
 	// call when level is removed from world
 	virtual void NativeDestruct() override;
+
+	//
+	// Callbacks for the  delegates on the MultiplayerSessionsSubsystem
+	//
+	UFUNCTION()
+	void OnCreateSession(bool bWasSuccessful);
 	
 private:
 	//

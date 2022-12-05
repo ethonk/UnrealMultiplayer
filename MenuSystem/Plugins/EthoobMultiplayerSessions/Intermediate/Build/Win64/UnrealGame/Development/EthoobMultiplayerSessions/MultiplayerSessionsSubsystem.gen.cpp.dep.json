@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\intermediate\\build\\win64\\unrealgame\\inc\\ethoobmultiplayersessions\\uht\\multiplayersessionssubsystem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\github\\unrealmultiplayer\\menusystem\\intermediate\\build\\win64\\menusystem\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\intermediate\\build\\win64\\unrealgame\\development\\ethoobmultiplayersessions\\definitions.ethoobmultiplayersessions.h",
+            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\source\\ethoobmultiplayersessions\\public\\multiplayersessionssubsystem.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinebase.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinesessionnames.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\intermediate\\build\\win64\\unrealgame\\inc\\ethoobmultiplayersessions\\uht\\multiplayersessionssubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
