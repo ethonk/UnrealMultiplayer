@@ -60,7 +60,19 @@
             "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
             "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\intermediate\\build\\win64\\unrealeditor\\inc\\ethoobmultiplayersessions\\uht\\multiplayersessionssubsystem.generated.h",
             "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\source\\ethoobmultiplayersessions\\private\\ethoobmultiplayersessions.cpp",
-            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\source\\ethoobmultiplayersessions\\public\\ethoobmultiplayersessions.h"
+            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\source\\ethoobmultiplayersessions\\public\\ethoobmultiplayersessions.h",
+            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\source\\ethoobmultiplayersessions\\private\\menu.cpp",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\source\\runtime\\umg\\public\\components\\button.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\source\\runtime\\umg\\public\\components\\contentwidget.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\source\\runtime\\umg\\public\\components\\panelwidget.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\source\\runtime\\umg\\public\\components\\panelslot.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\panelslot.generated.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\panelwidget.generated.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\contentwidget.generated.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\button.generated.h",
+            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\source\\ethoobmultiplayersessions\\private\\multiplayersessionssubsystem.cpp",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "a:\\unreal engine\\.versions\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
