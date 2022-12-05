@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EthoobMultiplayerSessions.cpp.obj": [
+			"EthoobMultiplayerSessions.init.gen.cpp.obj",
+			"Menu.gen.cpp.obj",
+			"MultiplayerSessionsSubsystem.gen.cpp.obj",
+			"EthoobMultiplayerSessions.cpp.obj",
+			"Menu.cpp.obj",
+			"MultiplayerSessionsSubsystem.cpp.obj"
+		]
+	}
+}

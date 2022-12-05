@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EthoobMultiplayerSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Intermediate\Build\Win64\MenuSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp.obj"
+"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Default.rc2.res"
+/OUT:"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\UnrealEditor-EthoobMultiplayerSessions.lib"

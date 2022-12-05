@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderBlueprint.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\Games (Projects)\UE5\MultiplayerTesting\MultiplayerTesting\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
+"A:\Games (Projects)\UE5\MultiplayerTesting\MultiplayerTesting\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Default.rc2.res"
+/OUT:"A:\Games (Projects)\UE5\MultiplayerTesting\MultiplayerTesting\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\UnrealEditor-RiderBlueprint.lib"
