@@ -19,6 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
  \
 	DECLARE_FUNCTION(execJoinButtonClicked); \
 	DECLARE_FUNCTION(execHostButtonClicked); \
+	DECLARE_FUNCTION(execOnCreateSession); \
 	DECLARE_FUNCTION(execMenuSetup);
 
 
@@ -26,6 +27,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
  \
 	DECLARE_FUNCTION(execJoinButtonClicked); \
 	DECLARE_FUNCTION(execHostButtonClicked); \
+	DECLARE_FUNCTION(execOnCreateSession); \
 	DECLARE_FUNCTION(execMenuSetup);
 
 

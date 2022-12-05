@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\intermediate\\build\\win64\\unrealgame\\inc\\ethoobmultiplayersessions\\uht\\ethoobmultiplayersessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\github\\unrealmultiplayer\\menusystem\\intermediate\\build\\win64\\menusystem\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "a:\\github\\unrealmultiplayer\\menusystem\\plugins\\ethoobmultiplayersessions\\intermediate\\build\\win64\\unrealgame\\development\\ethoobmultiplayersessions\\definitions.ethoobmultiplayersessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

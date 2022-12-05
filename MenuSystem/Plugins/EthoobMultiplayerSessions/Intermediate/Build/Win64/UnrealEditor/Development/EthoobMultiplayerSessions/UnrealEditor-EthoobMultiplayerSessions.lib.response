@@ -6,7 +6,12 @@
 /NAME:"UnrealEditor-EthoobMultiplayerSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Intermediate\Build\Win64\MenuSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp.obj"
-"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Default.rc2.res"
-/OUT:"A:\Games (Projects)\UE5\Udemy_MultiplayerCourse\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\UnrealEditor-EthoobMultiplayerSessions.lib"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Intermediate\Build\Win64\MenuSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Module.EthoobMultiplayerSessions.cpp.obj"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Menu.cpp.obj"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\MultiplayerSessionsSubsystem.cpp.obj"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\EthoobMultiplayerSessions.init.gen.cpp.obj"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Menu.gen.cpp.obj"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\MultiplayerSessionsSubsystem.gen.cpp.obj"
+"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\Default.rc2.res"
+/OUT:"A:\GitHub\UnrealMultiplayer\MenuSystem\Plugins\EthoobMultiplayerSessions\Intermediate\Build\Win64\UnrealEditor\Development\EthoobMultiplayerSessions\UnrealEditor-EthoobMultiplayerSessions.lib"
